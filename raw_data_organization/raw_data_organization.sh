@@ -4,7 +4,7 @@
 # Ryn Thorn - 3.30.23
 # MacOS 12.4
 # Requires simple-dicom-sort and dcm2niix
-#
+# 
 ################################
 
 BCyan='\033[1;36m' # Bold Cyan
