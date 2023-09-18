@@ -1,10 +1,12 @@
-### Scripts for commonly used imaging data analysis pipelines by BRIDGE lab.
+## Scripts for commonly used imaging data analysis pipelines by BRIDGE lab.
 
 All individual script folders contain a README.md that specifies folder structure, dependencies, and basic instructions.
 
-<img height="300" src="bridgelab_square.png">
+<img height="300" src="bridgelab.png">
 
-#### Raw Data Organization Requirements
+## Dependencies
+
+#### Raw Data Organization
 
 ##### <a href="https://github.com/rordenlab/dcm2niix">dcm2niix</a>
 
