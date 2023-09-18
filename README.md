@@ -2,7 +2,7 @@
 
 All individual script folders contain a README.md that specifies folder structure, dependencies, and basic instructions.
 
-<img height="300" src="bridgelab.png">
+<img height="200" src="bridgelab.png">
 
 ## Dependencies
 
