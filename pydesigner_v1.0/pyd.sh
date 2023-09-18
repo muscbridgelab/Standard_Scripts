@@ -17,6 +17,8 @@ BGreen='\033[1;32m' # Bold Green
 NC='\033[0m' # No Color
 
 read -p $'\033[1;36mEnter subject IDs to process separated only by a space (eg. M101 M102 M103):\e[0m ' SUBJ_IDs
+read -p $'\033[1;36mEnter path to study folder:\e[0m ' base
+read -p $'\033[1;36mEnter path to raw nifti files:\e[0m ' niis
 
 for i in $SUBJ_IDs ; do 
   echo -e "${BYellow}Setting up files${NC}"
