@@ -2,7 +2,7 @@
 
 All individual script folders contain a README.md that specifies folder structure, dependencies, and basic instructions.
 
-<img src="bridgelab_square.png">
+<img height="300" src="bridgelab_square.png">
 
 #### Raw Data Organization Requirements
 
